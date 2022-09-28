@@ -36,7 +36,7 @@ a notebook and deploy them on a server. Panel also interfaces with other
 plotting libraries and lets you incorporate multiple data-science
 artifacts into a single Bokeh application. Furthermore, the library
 includes a number of JavaScript templates to let you customize the
-appearance your Bokeh apps.
+appearance your of Bokeh apps.
 
 HoloViews
 ---------
